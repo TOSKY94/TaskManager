@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{FB574610-A784-41C1-AFA4-E378D1DEEA4C}|Default">
+  <MonoDevelop.Ide.ItemProperties.SuperHeroAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SuperHeroAPI/Controllers/TodoController.cs">
+    <Files>
+      <File FileName="SuperHeroAPI/Controllers/SuperHeroController.cs" Line="13" Column="17" />
+      <File FileName="SuperHeroAPI/Controllers/TodoController.cs" Line="22" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SuperHeroAPI" expanded="True">
+            <Node name="SuperHeroAPI" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="TodoController.cs" selected="True" />
+              </Node>
+              <Node name="Model" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "iI0q6kUkuxtDiyBl0Yh5MDsv0gZf2B8FCzE0gYFsFcBzUD4MsiBXAnZ2z9JN8/ZwygVBrICh0y7iBGhfEgfBmQ==",
+  "success": true,
+  "projectFilePath": "/Users/patrickoguaju/Projects/SuperHeroAPI/SuperHeroAPI/TaskManagerAPI.csproj",
+  "expectedPackageFiles": [
+    "/Users/patrickoguaju/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/patrickoguaju/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/patrickoguaju/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/patrickoguaju/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/patrickoguaju/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/patrickoguaju/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
