@@ -1,4 +1,7 @@
 ﻿<Properties StartupConfiguration="{FB574610-A784-41C1-AFA4-E378D1DEEA4C}|SuperHeroAPI">
+  <MonoDevelop.Ide.ItemProperties.TaskManagerAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="TaskManagerAPI/Controllers/UserController.cs">
     <Files>
       <File FileName="TaskManagerAPI/Controllers/UserController.cs" Line="64" Column="18" />
@@ -8,9 +11,7 @@
         <State name="__root__">
           <Node name="TaskManagerAPI" expanded="True">
             <Node name="TaskManagerAPI" expanded="True">
-              <Node name="Controllers" expanded="True">
-                <Node name="UserController.cs" selected="True" />
-              </Node>
+              <Node name="Controllers" expanded="True" />
               <Node name="Model" expanded="True" />
             </Node>
           </Node>
@@ -21,11 +22,8 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.TaskManagerAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
 </Properties>
